@@ -1,4 +1,3 @@
-# wildfire.mcdplib/dp/aircraft.mcdp
 dp {
   provides area_controlled [ha]
 
