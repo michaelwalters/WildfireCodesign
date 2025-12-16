@@ -1,0 +1,36 @@
+# Catalogue of wildfire suppression capability options
+F: [ha]      # area_controlled
+R:
+  - USD      # total_cost
+  - kg       # logistics_load
+  - min      # response_time
+
+implementations:
+
+  # Cheapest but heaviest option
+  model0:
+    f_max:
+      - "120 ha"       # area_controlled
+    r_min:
+      - "300000 USD"   # total_cost
+      - "120000 kg"    # logistics_load
+      - "40 min"       # response_time
+
+  # Middle of the road
+  model1:
+    f_max:
+      - "120 ha"
+    r_min:
+      - "450000 USD"
+      - "80000 kg"
+      - "40 min"
+
+  # Lightest but most expensive option
+  model2:
+    f_max:
+      - "120 ha"
+    r_min:
+      - "600000 USD"
+      - "50000 kg"
+      - "40 min"
+

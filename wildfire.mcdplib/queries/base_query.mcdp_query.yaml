@@ -1,0 +1,19 @@
+title: Base Wildfire Query
+description: Minimal working query for the wildfire DP.
+model: "`wildfire"
+
+query:
+  query_type: FixFunMinRes
+
+  min_f:
+    area_controlled: "50 ha"
+
+  max_r:
+    total_cost: "1000000000 USD"
+    logistics_load: "1000000000 kg"
+    response_time: "60 min"
+
+  optimize_for:
+    - total_cost
+    - logistics_load
+    - response_time

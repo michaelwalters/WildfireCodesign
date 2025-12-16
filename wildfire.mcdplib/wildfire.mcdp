@@ -1,0 +1,40 @@
+# wildfire.mcdplib/wildfire.mcdp
+#
+# Top-level wildfire suppression co-design model.
+# Functionality: area_controlled [ha] (more is better)
+# Resources: total_cost [USD], logistics_load [kg], response_time [min] (less is better)
+
+mcdp {
+  provides area_controlled [ha]
+
+  requires total_cost      [USD]
+  requires logistics_load  [kg]
+  requires response_time   [min]
+
+  air    = instance `aircraft
+  ground = instance `crews
+  supply = instance `retardant
+
+  # --- Logistics coupling ---
+  # Supply must cover whatever logistics load the aircraft needs.
+  logistics_load provided by supply >= logistics_load required by air
+
+  # The system-level logistics budget must cover aircraft logistics.
+  required logistics_load >= logistics_load required by air
+
+  # --- Cost aggregation (sum) ---
+  required total_cost >=
+      total_cost required by air
+    + total_cost required by ground
+    + total_cost required by supply
+
+  # --- Area aggregation (sum) ---
+  provided area_controlled <=
+      area_controlled provided by air
+    + area_controlled provided by ground
+
+  # --- Response time aggregation (max-like, as a resource) ---
+  # System response-time budget must be at least as large as each subsystem's required response time.
+  required response_time >= response_time required by air
+  required response_time >= response_time required by ground
+}

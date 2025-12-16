@@ -1,0 +1,722 @@
+# Catalogue of aircraft options
+F: [ha]
+R:
+  - USD
+  - kg
+  - min
+
+implementations:
+  model0:
+    f_max:
+      - "35 ha"
+    r_min:
+      - "1505875 USD"
+      - "4398 kg"
+      - "10 min"
+  model1:
+    f_max:
+      - "10 ha"
+    r_min:
+      - "970119 USD"
+      - "2928 kg"
+      - "8 min"
+  model2:
+    f_max:
+      - "35 ha"
+    r_min:
+      - "1673255 USD"
+      - "4554 kg"
+      - "6 min"
+  model3:
+    f_max:
+      - "10 ha"
+    r_min:
+      - "963419 USD"
+      - "3094 kg"
+      - "8 min"
+  model4:
+    f_max:
+      - "15 ha"
+    r_min:
+      - "905944 USD"
+      - "3057 kg"
+      - "12 min"
+  model5:
+    f_max:
+      - "40 ha"
+    r_min:
+      - "1802057 USD"
+      - "4783 kg"
+      - "6 min"
+  model6:
+    f_max:
+      - "25 ha"
+    r_min:
+      - "1427821 USD"
+      - "4194 kg"
+      - "6 min"
+  model7:
+    f_max:
+      - "40 ha"
+    r_min:
+      - "1779488 USD"
+      - "4743 kg"
+      - "6 min"
+  model8:
+    f_max:
+      - "50 ha"
+    r_min:
+      - "1873979 USD"
+      - "5104 kg"
+      - "10 min"
+  model9:
+    f_max:
+      - "20 ha"
+    r_min:
+      - "632719 USD"
+      - "2392 kg"
+      - "30 min"
+  model10:
+    f_max:
+      - "30 ha"
+    r_min:
+      - "919695 USD"
+      - "2742 kg"
+      - "30 min"
+  model11:
+    f_max:
+      - "15 ha"
+    r_min:
+      - "924405 USD"
+      - "2824 kg"
+      - "12 min"
+  model12:
+    f_max:
+      - "50 ha"
+    r_min:
+      - "1971986 USD"
+      - "5110 kg"
+      - "8 min"
+  model13:
+    f_max:
+      - "25 ha"
+    r_min:
+      - "794590 USD"
+      - "2647 kg"
+      - "26 min"
+  model14:
+    f_max:
+      - "40 ha"
+    r_min:
+      - "1315513 USD"
+      - "3879 kg"
+      - "18 min"
+  model15:
+    f_max:
+      - "45 ha"
+    r_min:
+      - "1429645 USD"
+      - "3982 kg"
+      - "18 min"
+  model16:
+    f_max:
+      - "20 ha"
+    r_min:
+      - "1030364 USD"
+      - "3344 kg"
+      - "12 min"
+  model17:
+    f_max:
+      - "30 ha"
+    r_min:
+      - "907447 USD"
+      - "2825 kg"
+      - "30 min"
+  model18:
+    f_max:
+      - "45 ha"
+    r_min:
+      - "1569908 USD"
+      - "4177 kg"
+      - "15 min"
+  model19:
+    f_max:
+      - "15 ha"
+    r_min:
+      - "527402 USD"
+      - "1909 kg"
+      - "30 min"
+  model20:
+    f_max:
+      - "35 ha"
+    r_min:
+      - "1512044 USD"
+      - "4280 kg"
+      - "10 min"
+  model21:
+    f_max:
+      - "10 ha"
+    r_min:
+      - "971574 USD"
+      - "3173 kg"
+      - "8 min"
+  model22:
+    f_max:
+      - "35 ha"
+    r_min:
+      - "1205566 USD"
+      - "3484 kg"
+      - "18 min"
+  model23:
+    f_max:
+      - "45 ha"
+    r_min:
+      - "1254506 USD"
+      - "3522 kg"
+      - "26 min"
+  model24:
+    f_max:
+      - "30 ha"
+    r_min:
+      - "920681 USD"
+      - "2990 kg"
+      - "26 min"
+  model25:
+    f_max:
+      - "15 ha"
+    r_min:
+      - "1187917 USD"
+      - "3704 kg"
+      - "6 min"
+  model26:
+    f_max:
+      - "30 ha"
+    r_min:
+      - "893651 USD"
+      - "3016 kg"
+      - "26 min"
+  model27:
+    f_max:
+      - "40 ha"
+    r_min:
+      - "1286478 USD"
+      - "3816 kg"
+      - "18 min"
+  model28:
+    f_max:
+      - "35 ha"
+    r_min:
+      - "1520037 USD"
+      - "4124 kg"
+      - "10 min"
+  model29:
+    f_max:
+      - "45 ha"
+    r_min:
+      - "1904300 USD"
+      - "5388 kg"
+      - "6 min"
+  model30:
+    f_max:
+      - "30 ha"
+    r_min:
+      - "1403389 USD"
+      - "3916 kg"
+      - "10 min"
+  model31:
+    f_max:
+      - "40 ha"
+    r_min:
+      - "1157539 USD"
+      - "3241 kg"
+      - "22 min"
+  model32:
+    f_max:
+      - "20 ha"
+    r_min:
+      - "651322 USD"
+      - "2381 kg"
+      - "26 min"
+  model33:
+    f_max:
+      - "30 ha"
+    r_min:
+      - "1383214 USD"
+      - "4071 kg"
+      - "10 min"
+  model34:
+    f_max:
+      - "30 ha"
+    r_min:
+      - "898512 USD"
+      - "2999 kg"
+      - "22 min"
+  model35:
+    f_max:
+      - "40 ha"
+    r_min:
+      - "1534890 USD"
+      - "4192 kg"
+      - "12 min"
+  model36:
+    f_max:
+      - "20 ha"
+    r_min:
+      - "1120201 USD"
+      - "3577 kg"
+      - "10 min"
+  model37:
+    f_max:
+      - "25 ha"
+    r_min:
+      - "1421782 USD"
+      - "4196 kg"
+      - "6 min"
+  model38:
+    f_max:
+      - "20 ha"
+    r_min:
+      - "923476 USD"
+      - "2767 kg"
+      - "15 min"
+  model39:
+    f_max:
+      - "20 ha"
+    r_min:
+      - "660034 USD"
+      - "2289 kg"
+      - "22 min"
+  model40:
+    f_max:
+      - "35 ha"
+    r_min:
+      - "1525252 USD"
+      - "4328 kg"
+      - "10 min"
+  model41:
+    f_max:
+      - "10 ha"
+    r_min:
+      - "419602 USD"
+      - "1836 kg"
+      - "26 min"
+  model42:
+    f_max:
+      - "40 ha"
+    r_min:
+      - "1151147 USD"
+      - "3401 kg"
+      - "22 min"
+  model43:
+    f_max:
+      - "15 ha"
+    r_min:
+      - "541568 USD"
+      - "2030 kg"
+      - "26 min"
+  model44:
+    f_max:
+      - "10 ha"
+    r_min:
+      - "779413 USD"
+      - "2606 kg"
+      - "12 min"
+  model45:
+    f_max:
+      - "45 ha"
+    r_min:
+      - "1737204 USD"
+      - "4789 kg"
+      - "10 min"
+  model46:
+    f_max:
+      - "10 ha"
+    r_min:
+      - "935015 USD"
+      - "3170 kg"
+      - "8 min"
+  model47:
+    f_max:
+      - "20 ha"
+    r_min:
+      - "631649 USD"
+      - "2286 kg"
+      - "30 min"
+  model48:
+    f_max:
+      - "10 ha"
+    r_min:
+      - "948628 USD"
+      - "3194 kg"
+      - "8 min"
+  model49:
+    f_max:
+      - "40 ha"
+    r_min:
+      - "1646576 USD"
+      - "4469 kg"
+      - "10 min"
+  model50:
+    f_max:
+      - "35 ha"
+    r_min:
+      - "1191073 USD"
+      - "3367 kg"
+      - "18 min"
+  model51:
+    f_max:
+      - "15 ha"
+    r_min:
+      - "530539 USD"
+      - "2070 kg"
+      - "26 min"
+  model52:
+    f_max:
+      - "45 ha"
+    r_min:
+      - "1535628 USD"
+      - "4213 kg"
+      - "15 min"
+  model53:
+    f_max:
+      - "15 ha"
+    r_min:
+      - "708519 USD"
+      - "2340 kg"
+      - "18 min"
+  model54:
+    f_max:
+      - "45 ha"
+    r_min:
+      - "1763838 USD"
+      - "4626 kg"
+      - "10 min"
+  model55:
+    f_max:
+      - "25 ha"
+    r_min:
+      - "773707 USD"
+      - "2450 kg"
+      - "30 min"
+  model56:
+    f_max:
+      - "50 ha"
+    r_min:
+      - "2064685 USD"
+      - "5540 kg"
+      - "6 min"
+  model57:
+    f_max:
+      - "30 ha"
+    r_min:
+      - "1480625 USD"
+      - "4113 kg"
+      - "8 min"
+  model58:
+    f_max:
+      - "50 ha"
+    r_min:
+      - "1545947 USD"
+      - "4312 kg"
+      - "18 min"
+  model59:
+    f_max:
+      - "25 ha"
+    r_min:
+      - "785492 USD"
+      - "2773 kg"
+      - "30 min"
+  model60:
+    f_max:
+      - "50 ha"
+    r_min:
+      - "1576709 USD"
+      - "4244 kg"
+      - "18 min"
+  model61:
+    f_max:
+      - "25 ha"
+    r_min:
+      - "1176259 USD"
+      - "3703 kg"
+      - "12 min"
+  model62:
+    f_max:
+      - "25 ha"
+    r_min:
+      - "1183923 USD"
+      - "3577 kg"
+      - "12 min"
+  model63:
+    f_max:
+      - "35 ha"
+    r_min:
+      - "1641830 USD"
+      - "4588 kg"
+      - "6 min"
+  model64:
+    f_max:
+      - "45 ha"
+    r_min:
+      - "1542690 USD"
+      - "4494 kg"
+      - "15 min"
+  model65:
+    f_max:
+      - "35 ha"
+    r_min:
+      - "1047390 USD"
+      - "3103 kg"
+      - "26 min"
+  model66:
+    f_max:
+      - "35 ha"
+    r_min:
+      - "1574448 USD"
+      - "4307 kg"
+      - "8 min"
+  model67:
+    f_max:
+      - "25 ha"
+    r_min:
+      - "762891 USD"
+      - "2547 kg"
+      - "26 min"
+  model68:
+    f_max:
+      - "25 ha"
+    r_min:
+      - "790898 USD"
+      - "2687 kg"
+      - "26 min"
+  model69:
+    f_max:
+      - "10 ha"
+    r_min:
+      - "417793 USD"
+      - "1726 kg"
+      - "26 min"
+  model70:
+    f_max:
+      - "15 ha"
+    r_min:
+      - "1085463 USD"
+      - "3555 kg"
+      - "8 min"
+  model71:
+    f_max:
+      - "25 ha"
+    r_min:
+      - "761699 USD"
+      - "2597 kg"
+      - "26 min"
+  model72:
+    f_max:
+      - "35 ha"
+    r_min:
+      - "1607305 USD"
+      - "4457 kg"
+      - "8 min"
+  model73:
+    f_max:
+      - "45 ha"
+    r_min:
+      - "1298716 USD"
+      - "3518 kg"
+      - "22 min"
+  model74:
+    f_max:
+      - "20 ha"
+    r_min:
+      - "1113325 USD"
+      - "3254 kg"
+      - "10 min"
+  model75:
+    f_max:
+      - "20 ha"
+    r_min:
+      - "667982 USD"
+      - "2174 kg"
+      - "26 min"
+  model76:
+    f_max:
+      - "45 ha"
+    r_min:
+      - "1420217 USD"
+      - "4135 kg"
+      - "18 min"
+  model77:
+    f_max:
+      - "50 ha"
+    r_min:
+      - "1856402 USD"
+      - "4897 kg"
+      - "10 min"
+  model78:
+    f_max:
+      - "15 ha"
+    r_min:
+      - "549118 USD"
+      - "1896 kg"
+      - "30 min"
+  model79:
+    f_max:
+      - "40 ha"
+    r_min:
+      - "1538830 USD"
+      - "4164 kg"
+      - "12 min"
+  model80:
+    f_max:
+      - "30 ha"
+    r_min:
+      - "1294199 USD"
+      - "3856 kg"
+      - "12 min"
+  model81:
+    f_max:
+      - "25 ha"
+    r_min:
+      - "926997 USD"
+      - "3033 kg"
+      - "18 min"
+  model82:
+    f_max:
+      - "40 ha"
+    r_min:
+      - "1608991 USD"
+      - "4718 kg"
+      - "10 min"
+  model83:
+    f_max:
+      - "35 ha"
+    r_min:
+      - "1043415 USD"
+      - "3223 kg"
+      - "26 min"
+  model84:
+    f_max:
+      - "50 ha"
+    r_min:
+      - "1407876 USD"
+      - "3816 kg"
+      - "22 min"
+  model85:
+    f_max:
+      - "50 ha"
+    r_min:
+      - "1889308 USD"
+      - "5151 kg"
+      - "10 min"
+  model86:
+    f_max:
+      - "10 ha"
+    r_min:
+      - "387000 USD"
+      - "1861 kg"
+      - "26 min"
+  model87:
+    f_max:
+      - "10 ha"
+    r_min:
+      - "866294 USD"
+      - "2762 kg"
+      - "10 min"
+  model88:
+    f_max:
+      - "45 ha"
+    r_min:
+      - "1846469 USD"
+      - "4836 kg"
+      - "8 min"
+  model89:
+    f_max:
+      - "35 ha"
+    r_min:
+      - "1034781 USD"
+      - "3209 kg"
+      - "30 min"
+  model90:
+    f_max:
+      - "45 ha"
+    r_min:
+      - "1846719 USD"
+      - "4834 kg"
+      - "8 min"
+  model91:
+    f_max:
+      - "25 ha"
+    r_min:
+      - "1168148 USD"
+      - "3346 kg"
+      - "12 min"
+  model92:
+    f_max:
+      - "15 ha"
+    r_min:
+      - "529633 USD"
+      - "2112 kg"
+      - "30 min"
+  model93:
+    f_max:
+      - "10 ha"
+    r_min:
+      - "964048 USD"
+      - "3046 kg"
+      - "8 min"
+  model94:
+    f_max:
+      - "50 ha"
+    r_min:
+      - "1388068 USD"
+      - "4104 kg"
+      - "30 min"
+  model95:
+    f_max:
+      - "30 ha"
+    r_min:
+      - "908302 USD"
+      - "2923 kg"
+      - "26 min"
+  model96:
+    f_max:
+      - "45 ha"
+    r_min:
+      - "1266230 USD"
+      - "3832 kg"
+      - "30 min"
+  model97:
+    f_max:
+      - "50 ha"
+    r_min:
+      - "1691668 USD"
+      - "4518 kg"
+      - "15 min"
+  model98:
+    f_max:
+      - "45 ha"
+    r_min:
+      - "1757304 USD"
+      - "4677 kg"
+      - "10 min"
+  model99:
+    f_max:
+      - "40 ha"
+    r_min:
+      - "1145708 USD"
+      - "3237 kg"
+      - "26 min"
+  model100:
+    f_max:
+      - "10 ha"
+    r_min:
+      - "250000 USD"
+      - "1500 kg"
+      - "30 min"
+  model101:
+    f_max:
+      - "50 ha"
+    r_min:
+      - "2000000 USD"
+      - "7000 kg"
+      - "6 min"

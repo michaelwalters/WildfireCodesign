@@ -1,0 +1,76 @@
+digraph G { 
+
+                graph [fontname = "STIX Two Math"];
+                 node [fontname = "STIX Two Math"];
+                 edge [fontname = "STIX Two Math"];
+                rankdir=LR;    nodesep=0;    esep=0;
+   subgraph cluster1 {
+      fontsize="14";
+      width="0.35000000000000003";
+      height="0.35000000000000003";
+      penwidth="1.2249999999999999";
+      shape="box";
+      style="rounded";
+      label="";
+      node16 [fontsize="14",width="0.35000000000000003",height="0.525",penwidth="1.2249999999999999",shape="plaintext",image="/tmp/mcdp_tmp_dir-root/resized/150/1adf73162431f7111c2e393564893cbc.png",imagescale="true",fixedsize="true",label=""];
+   
+      node15 [fontsize="14",width="0.35000000000000003",height="0.525",penwidth="1.2249999999999999",shape="plaintext",image="/tmp/mcdp_tmp_dir-root/resized/150/1adf73162431f7111c2e393564893cbc.png",imagescale="true",fixedsize="true",label=""];
+   
+      node14 [fontsize="14",width="0.35000000000000003",height="0.525",penwidth="1.2249999999999999",shape="plaintext",image="/tmp/mcdp_tmp_dir-root/resized/150/1adf73162431f7111c2e393564893cbc.png",imagescale="true",fixedsize="true",label=""];
+   
+      node13 [fontsize="14",width="0.35000000000000003",height="0.525",penwidth="1.2249999999999999",shape="plaintext",image="/tmp/mcdp_tmp_dir-root/resized/150/1adf73162431f7111c2e393564893cbc.png",imagescale="true",fixedsize="true",label=""];
+   
+      node12 [fontsize="14",width="0.35000000000000003",height="0.525",penwidth="1.2249999999999999",shape="plaintext",image="/tmp/mcdp_tmp_dir-root/resized/150/1adf73162431f7111c2e393564893cbc.png",imagescale="true",fixedsize="true",label=""];
+   
+      node11 [fontsize="14",width="0.35000000000000003",height="0.525",penwidth="1.2249999999999999",shape="plaintext",image="/tmp/mcdp_tmp_dir-root/resized/150/1adf73162431f7111c2e393564893cbc.png",imagescale="true",fixedsize="true",label=""];
+   
+      node10 [fontsize="14",width="0.35000000000000003",height="0.525",penwidth="1.2249999999999999",shape="plaintext",image="/tmp/mcdp_tmp_dir-root/resized/150/1adf73162431f7111c2e393564893cbc.png",imagescale="true",fixedsize="true",label=""];
+   
+      node9 [fontsize="14",width="0.35000000000000003",height="0.525",penwidth="1.2249999999999999",shape="plaintext",image="/tmp/mcdp_tmp_dir-root/resized/150/1adf73162431f7111c2e393564893cbc.png",imagescale="true",fixedsize="true",label=""];
+   
+      node8 [fontsize="14",width="0.35000000000000003",height="0.35000000000000003",penwidth="1.2249999999999999",imagescale="true",shape="box",style="rounded",label=<<TABLE CELLBORDER='0' BORDER='0'><TR><TD>supply</TD></TR><TR><TD fixedsize='true' width='105' height='84'><IMG SRC='/tmp/mcdp_tmp_dir-root/resized/150/b70ab9e5e96058a76ab1d14fd817ee9b.png'/></TD></TR></TABLE>>];
+   
+      node7 [fontsize="14",width="0.35000000000000003",height="0.35000000000000003",penwidth="1.2249999999999999",imagescale="true",shape="box",style="rounded",label=<<TABLE CELLBORDER='0' BORDER='0'><TR><TD>ground</TD></TR><TR><TD fixedsize='true' width='105' height='84'><IMG SRC='/tmp/mcdp_tmp_dir-root/resized/150/b70ab9e5e96058a76ab1d14fd817ee9b.png'/></TD></TR></TABLE>>];
+   
+      node6 [fontsize="14",width="0.1",height="0.35000000000000003",penwidth="1.2249999999999999",style="filled",shape="point",color="red",fillcolor="black",label=""];
+   
+      node5 [fontsize="14",width="0.35000000000000003",height="0.35000000000000003",penwidth="1.2249999999999999",imagescale="true",shape="box",style="rounded",label=<<TABLE CELLBORDER='0' BORDER='0'><TR><TD>air</TD></TR><TR><TD fixedsize='true' width='105' height='84'><IMG SRC='/tmp/mcdp_tmp_dir-root/resized/150/b70ab9e5e96058a76ab1d14fd817ee9b.png'/></TD></TR></TABLE>>];
+   
+      node4 [fontsize="14",width="0.35000000000000003",height="0.7000000000000001",penwidth="1.2249999999999999",unused_="unused_",image="/tmp/mcdp_tmp_dir-root/resized/150/3b6792b6b27e3a2688248e15e5fbc178.png",imagescale="true",fixedsize="true",shape="none",label=""];
+   
+      node3 [fontsize="14",width="0.35000000000000003",height="0.35000000000000003",penwidth="1.2249999999999999",shape="box",style="rounded",label=<<FONT COLOR='darkgreen'>f</FONT> ≤ <FONT COLOR='#861109'>r</FONT>>];
+   
+      node2 [fontsize="14",width="0.35000000000000003",height="0.7000000000000001",penwidth="1.2249999999999999",unused_="unused_",image="/tmp/mcdp_tmp_dir-root/resized/150/aee32ac6532341053abc11f32d701b3c.png",imagescale="true",fixedsize="true",shape="none",label=""];
+   
+   }
+
+   node17 [fontsize="14",width="0.35000000000000003",height="0.35000000000000003",penwidth="1.2249999999999999",shape="none",label="area_controlled\nSB([30,170]) ha",fontcolor="darkgreen"];
+
+   node18 [fontsize="14",width="0.35000000000000003",height="0.35000000000000003",penwidth="1.2249999999999999",shape="none",label="total_cost\nSB([444422,3307903]) USD",fontcolor="#861109"];
+
+   node19 [fontsize="14",width="0.35000000000000003",height="0.35000000000000003",penwidth="1.2249999999999999",shape="none",label="logistics_load\nSB([1500,7000]) kg",fontcolor="#861109"];
+
+   node20 [fontsize="14",width="0.35000000000000003",height="0.35000000000000003",penwidth="1.2249999999999999",shape="none",label="response_time\nSB([10,60]) min",fontcolor="#861109"];
+
+   node16->node4 [fontsize="14",penwidth="1.75",arrowsize="0.525",label="supply_total_cost\nSB([44422,146681]) USD",color="darkgreen",fontcolor="darkgreen",arrowhead="box",arrowtail="none",dir="both"];
+   node15->node4 [fontsize="14",penwidth="1.75",arrowsize="0.525",label="ground_total_cost\nSB([150000,1096537]) USD",color="darkgreen",fontcolor="darkgreen",arrowhead="box",arrowtail="none",dir="both"];
+   node14->node3 [fontsize="14",penwidth="1.75",arrowsize="0.525",label="required response_time",weight="0.5",color="darkgreen",fontcolor="darkgreen",arrowhead="box",arrowtail="none",dir="both"];
+   node13->node4 [fontsize="14",penwidth="1.75",arrowsize="0.525",label="air_total_cost\nSB([250000,2064685]) USD",color="darkgreen",fontcolor="darkgreen",arrowhead="box",arrowtail="none",dir="both"];
+   node12->node3 [fontsize="14",penwidth="1.75",arrowsize="0.525",label="required response_time",weight="0.5",color="darkgreen",fontcolor="darkgreen",arrowhead="box",arrowtail="none",dir="both"];
+   node11->node8 [fontsize="14",penwidth="1.75",arrowsize="0.525",label="logistics_load\nSB([1500,7000]) kg",color="darkgreen",fontcolor="darkgreen",arrowhead="box",arrowtail="none",dir="both"];
+   node10->node7 [fontsize="14",penwidth="1.75",arrowsize="0.525",label="area_controlled\nSB([20,120]) ha",color="darkgreen",fontcolor="darkgreen",arrowhead="box",arrowtail="none",dir="both"];
+   node9->node5 [fontsize="14",penwidth="1.75",arrowsize="0.525",label="area_controlled\nSB([10,50]) ha",color="darkgreen",fontcolor="darkgreen",arrowhead="box",arrowtail="none",dir="both"];
+   node8->node16 [fontsize="14",penwidth="1.75",arrowsize="0.525",label="total_cost\nSB([44422,146681]) USD",fontcolor="#861109",color="#861109",arrowtail="dot",arrowhead="none",dir="both",style="dashed"];
+   node7->node14 [fontsize="14",penwidth="1.75",arrowsize="0.525",label="response_time\nSB([10,60]) min",weight="0.5",fontcolor="#861109",color="#861109",arrowtail="dot",arrowhead="none",dir="both",style="dashed"];
+   node7->node15 [fontsize="14",penwidth="1.75",arrowsize="0.525",label="total_cost\nSB([150000,1096537]) USD",fontcolor="#861109",color="#861109",arrowtail="dot",arrowhead="none",dir="both",style="dashed"];
+   node6->node11 [fontsize="14",penwidth="1.75",arrowsize="0.525",label="logistics_load\nSB([1500,7000]) kg",fontcolor="#861109",color="#861109",arrowtail="dot",arrowhead="none",dir="both",style="dashed"];
+   node6->node19 [fontsize="14",penwidth="1.75",arrowsize="0.525",fontcolor="#861109",color="#861109",arrowtail="dot",arrowhead="none",dir="both",style="dashed"];
+   node5->node6 [fontsize="14",penwidth="1.75",arrowsize="0.525",dir="both",constraint="false",weight="0",fontcolor="#861109",color="#861109",arrowtail="dot",arrowhead="none",style="dashed"];
+   node5->node12 [fontsize="14",penwidth="1.75",arrowsize="0.525",label="response_time\nSB([10,30]) min",weight="0.5",fontcolor="#861109",color="#861109",arrowtail="dot",arrowhead="none",dir="both",style="dashed"];
+   node5->node13 [fontsize="14",penwidth="1.75",arrowsize="0.525",label="total_cost\nSB([250000,2064685]) USD",fontcolor="#861109",color="#861109",arrowtail="dot",arrowhead="none",dir="both",style="dashed"];
+   node4->node18 [fontsize="14",penwidth="1.75",arrowsize="0.525",fontcolor="#861109",color="#861109",arrowtail="dot",arrowhead="none",dir="both",style="dashed"];
+   node3->node20 [fontsize="14",penwidth="1.75",arrowsize="0.525",fontcolor="#861109",color="#861109",arrowtail="dot",arrowhead="none",dir="both",style="dashed"];
+   node2->node9 [fontsize="14",penwidth="1.75",arrowsize="0.525",label="air_area_controlled\nSB([10,50]) ha",fontcolor="#861109",color="#861109",arrowtail="dot",arrowhead="none",dir="both",style="dashed"];
+   node2->node10 [fontsize="14",penwidth="1.75",arrowsize="0.525",label="ground_area_controlled\nSB([20,120]) ha",fontcolor="#861109",color="#861109",arrowtail="dot",arrowhead="none",dir="both",style="dashed"];
+   node17->node2 [fontsize="14",penwidth="1.75",arrowsize="0.525",color="darkgreen",fontcolor="darkgreen",arrowhead="box",arrowtail="none",dir="both"];
+}

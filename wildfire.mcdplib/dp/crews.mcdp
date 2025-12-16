@@ -1,0 +1,9 @@
+# wildfire.mcdplib/dp/crews.mcdp
+dp {
+  provides area_controlled [ha]
+
+  requires total_cost      [USD]
+  requires response_time   [min]
+
+  implemented-by yaml resource("catalogues/crews_catalogue.yaml")
+}

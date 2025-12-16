@@ -1,0 +1,215 @@
+# Catalogue of retardant/supply options
+F: [kg]
+R: [USD]
+
+implementations:
+  model0:
+    f_max:
+      - "6000 kg"
+    r_min:
+      - "128820 USD"
+  model1:
+    f_max:
+      - "1500 kg"
+    r_min:
+      - "48498 USD"
+  model2:
+    f_max:
+      - "2500 kg"
+    r_min:
+      - "64553 USD"
+  model3:
+    f_max:
+      - "1500 kg"
+    r_min:
+      - "47874 USD"
+  model4:
+    f_max:
+      - "1000 kg"
+    r_min:
+      - "37372 USD"
+  model5:
+    f_max:
+      - "6000 kg"
+    r_min:
+      - "125626 USD"
+  model6:
+    f_max:
+      - "7000 kg"
+    r_min:
+      - "146681 USD"
+  model7:
+    f_max:
+      - "3000 kg"
+    r_min:
+      - "74169 USD"
+  model8:
+    f_max:
+      - "2500 kg"
+    r_min:
+      - "63726 USD"
+  model9:
+    f_max:
+      - "1500 kg"
+    r_min:
+      - "48763 USD"
+  model10:
+    f_max:
+      - "1500 kg"
+    r_min:
+      - "45161 USD"
+  model11:
+    f_max:
+      - "7000 kg"
+    r_min:
+      - "145144 USD"
+  model12:
+    f_max:
+      - "4000 kg"
+    r_min:
+      - "90086 USD"
+  model13:
+    f_max:
+      - "7000 kg"
+    r_min:
+      - "145290 USD"
+  model14:
+    f_max:
+      - "1500 kg"
+    r_min:
+      - "49761 USD"
+  model15:
+    f_max:
+      - "4000 kg"
+    r_min:
+      - "90895 USD"
+  model16:
+    f_max:
+      - "6000 kg"
+    r_min:
+      - "128982 USD"
+  model17:
+    f_max:
+      - "5000 kg"
+    r_min:
+      - "107203 USD"
+  model18:
+    f_max:
+      - "2000 kg"
+    r_min:
+      - "53029 USD"
+  model19:
+    f_max:
+      - "6000 kg"
+    r_min:
+      - "130583 USD"
+  model20:
+    f_max:
+      - "6000 kg"
+    r_min:
+      - "128321 USD"
+  model21:
+    f_max:
+      - "3000 kg"
+    r_min:
+      - "76957 USD"
+  model22:
+    f_max:
+      - "2000 kg"
+    r_min:
+      - "56409 USD"
+  model23:
+    f_max:
+      - "4000 kg"
+    r_min:
+      - "92081 USD"
+  model24:
+    f_max:
+      - "4000 kg"
+    r_min:
+      - "89990 USD"
+  model25:
+    f_max:
+      - "4000 kg"
+    r_min:
+      - "89014 USD"
+  model26:
+    f_max:
+      - "4000 kg"
+    r_min:
+      - "91771 USD"
+  model27:
+    f_max:
+      - "5000 kg"
+    r_min:
+      - "107983 USD"
+  model28:
+    f_max:
+      - "2500 kg"
+    r_min:
+      - "67841 USD"
+  model29:
+    f_max:
+      - "1000 kg"
+    r_min:
+      - "37374 USD"
+  model30:
+    f_max:
+      - "3000 kg"
+    r_min:
+      - "74049 USD"
+  model31:
+    f_max:
+      - "1500 kg"
+    r_min:
+      - "47218 USD"
+  model32:
+    f_max:
+      - "5000 kg"
+    r_min:
+      - "111826 USD"
+  model33:
+    f_max:
+      - "1500 kg"
+    r_min:
+      - "46954 USD"
+  model34:
+    f_max:
+      - "5000 kg"
+    r_min:
+      - "109254 USD"
+  model35:
+    f_max:
+      - "1000 kg"
+    r_min:
+      - "37298 USD"
+  model36:
+    f_max:
+      - "1500 kg"
+    r_min:
+      - "44422 USD"
+  model37:
+    f_max:
+      - "3000 kg"
+    r_min:
+      - "76201 USD"
+  model38:
+    f_max:
+      - "2000 kg"
+    r_min:
+      - "55042 USD"
+  model39:
+    f_max:
+      - "3000 kg"
+    r_min:
+      - "74573 USD"
+  model40:
+    f_max:
+      - "2000 kg"
+    r_min:
+      - "50000 USD"
+  model41:
+    f_max:
+      - "6000 kg"
+    r_min:
+      - "50000 USD"

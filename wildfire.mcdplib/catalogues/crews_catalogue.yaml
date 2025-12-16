@@ -1,0 +1,619 @@
+# Catalogue of ground crew options
+F: [ha]
+R:
+  - USD
+  - min
+
+implementations:
+  model0:
+    f_max:
+      - "120 ha"
+    r_min:
+      - "1062035 USD"
+      - "20 min"
+  model1:
+    f_max:
+      - "30 ha"
+    r_min:
+      - "484937 USD"
+      - "20 min"
+  model2:
+    f_max:
+      - "60 ha"
+    r_min:
+      - "703060 USD"
+      - "15 min"
+  model3:
+    f_max:
+      - "120 ha"
+    r_min:
+      - "972685 USD"
+      - "30 min"
+  model4:
+    f_max:
+      - "60 ha"
+    r_min:
+      - "689326 USD"
+      - "18 min"
+  model5:
+    f_max:
+      - "50 ha"
+    r_min:
+      - "646050 USD"
+      - "15 min"
+  model6:
+    f_max:
+      - "90 ha"
+    r_min:
+      - "890883 USD"
+      - "18 min"
+  model7:
+    f_max:
+      - "50 ha"
+    r_min:
+      - "632144 USD"
+      - "18 min"
+  model8:
+    f_max:
+      - "80 ha"
+    r_min:
+      - "601232 USD"
+      - "45 min"
+  model9:
+    f_max:
+      - "70 ha"
+    r_min:
+      - "609414 USD"
+      - "35 min"
+  model10:
+    f_max:
+      - "70 ha"
+    r_min:
+      - "646021 USD"
+      - "30 min"
+  model11:
+    f_max:
+      - "70 ha"
+    r_min:
+      - "814074 USD"
+      - "10 min"
+  model12:
+    f_max:
+      - "100 ha"
+    r_min:
+      - "772432 USD"
+      - "40 min"
+  model13:
+    f_max:
+      - "20 ha"
+    r_min:
+      - "288862 USD"
+      - "35 min"
+  model14:
+    f_max:
+      - "100 ha"
+    r_min:
+      - "727681 USD"
+      - "60 min"
+  model15:
+    f_max:
+      - "100 ha"
+    r_min:
+      - "961697 USD"
+      - "15 min"
+  model16:
+    f_max:
+      - "50 ha"
+    r_min:
+      - "635754 USD"
+      - "15 min"
+  model17:
+    f_max:
+      - "60 ha"
+    r_min:
+      - "619297 USD"
+      - "25 min"
+  model18:
+    f_max:
+      - "40 ha"
+    r_min:
+      - "492245 USD"
+      - "25 min"
+  model19:
+    f_max:
+      - "80 ha"
+    r_min:
+      - "761302 USD"
+      - "25 min"
+  model20:
+    f_max:
+      - "40 ha"
+    r_min:
+      - "344868 USD"
+      - "45 min"
+  model21:
+    f_max:
+      - "110 ha"
+    r_min:
+      - "845951 USD"
+      - "40 min"
+  model22:
+    f_max:
+      - "70 ha"
+    r_min:
+      - "772144 USD"
+      - "15 min"
+  model23:
+    f_max:
+      - "20 ha"
+    r_min:
+      - "427936 USD"
+      - "18 min"
+  model24:
+    f_max:
+      - "30 ha"
+    r_min:
+      - "423551 USD"
+      - "25 min"
+  model25:
+    f_max:
+      - "120 ha"
+    r_min:
+      - "1096537 USD"
+      - "15 min"
+  model26:
+    f_max:
+      - "30 ha"
+    r_min:
+      - "270287 USD"
+      - "60 min"
+  model27:
+    f_max:
+      - "30 ha"
+    r_min:
+      - "426987 USD"
+      - "25 min"
+  model28:
+    f_max:
+      - "90 ha"
+    r_min:
+      - "944113 USD"
+      - "10 min"
+  model29:
+    f_max:
+      - "100 ha"
+    r_min:
+      - "806777 USD"
+      - "35 min"
+  model30:
+    f_max:
+      - "110 ha"
+    r_min:
+      - "1000415 USD"
+      - "18 min"
+  model31:
+    f_max:
+      - "100 ha"
+    r_min:
+      - "921586 USD"
+      - "20 min"
+  model32:
+    f_max:
+      - "40 ha"
+    r_min:
+      - "489650 USD"
+      - "25 min"
+  model33:
+    f_max:
+      - "40 ha"
+    r_min:
+      - "538223 USD"
+      - "20 min"
+  model34:
+    f_max:
+      - "120 ha"
+    r_min:
+      - "1025402 USD"
+      - "25 min"
+  model35:
+    f_max:
+      - "50 ha"
+    r_min:
+      - "567604 USD"
+      - "25 min"
+  model36:
+    f_max:
+      - "100 ha"
+    r_min:
+      - "942864 USD"
+      - "18 min"
+  model37:
+    f_max:
+      - "70 ha"
+    r_min:
+      - "811206 USD"
+      - "10 min"
+  model38:
+    f_max:
+      - "20 ha"
+    r_min:
+      - "478604 USD"
+      - "10 min"
+  model39:
+    f_max:
+      - "100 ha"
+    r_min:
+      - "724208 USD"
+      - "45 min"
+  model40:
+    f_max:
+      - "100 ha"
+    r_min:
+      - "766050 USD"
+      - "40 min"
+  model41:
+    f_max:
+      - "90 ha"
+    r_min:
+      - "914571 USD"
+      - "15 min"
+  model42:
+    f_max:
+      - "120 ha"
+    r_min:
+      - "949512 USD"
+      - "35 min"
+  model43:
+    f_max:
+      - "90 ha"
+    r_min:
+      - "665880 USD"
+      - "45 min"
+  model44:
+    f_max:
+      - "100 ha"
+    r_min:
+      - "900535 USD"
+      - "25 min"
+  model45:
+    f_max:
+      - "50 ha"
+    r_min:
+      - "604229 USD"
+      - "20 min"
+  model46:
+    f_max:
+      - "50 ha"
+    r_min:
+      - "622261 USD"
+      - "18 min"
+  model47:
+    f_max:
+      - "70 ha"
+    r_min:
+      - "807253 USD"
+      - "10 min"
+  model48:
+    f_max:
+      - "20 ha"
+    r_min:
+      - "458494 USD"
+      - "15 min"
+  model49:
+    f_max:
+      - "60 ha"
+    r_min:
+      - "543349 USD"
+      - "35 min"
+  model50:
+    f_max:
+      - "20 ha"
+    r_min:
+      - "459798 USD"
+      - "15 min"
+  model51:
+    f_max:
+      - "80 ha"
+    r_min:
+      - "609972 USD"
+      - "45 min"
+  model52:
+    f_max:
+      - "60 ha"
+    r_min:
+      - "465936 USD"
+      - "60 min"
+  model53:
+    f_max:
+      - "60 ha"
+    r_min:
+      - "753055 USD"
+      - "10 min"
+  model54:
+    f_max:
+      - "40 ha"
+    r_min:
+      - "552815 USD"
+      - "18 min"
+  model55:
+    f_max:
+      - "90 ha"
+    r_min:
+      - "941625 USD"
+      - "10 min"
+  model56:
+    f_max:
+      - "70 ha"
+    r_min:
+      - "660926 USD"
+      - "30 min"
+  model57:
+    f_max:
+      - "70 ha"
+    r_min:
+      - "724128 USD"
+      - "20 min"
+  model58:
+    f_max:
+      - "60 ha"
+    r_min:
+      - "669684 USD"
+      - "20 min"
+  model59:
+    f_max:
+      - "40 ha"
+    r_min:
+      - "618988 USD"
+      - "10 min"
+  model60:
+    f_max:
+      - "80 ha"
+    r_min:
+      - "843553 USD"
+      - "15 min"
+  model61:
+    f_max:
+      - "60 ha"
+    r_min:
+      - "479496 USD"
+      - "45 min"
+  model62:
+    f_max:
+      - "50 ha"
+    r_min:
+      - "609539 USD"
+      - "20 min"
+  model63:
+    f_max:
+      - "20 ha"
+    r_min:
+      - "446656 USD"
+      - "15 min"
+  model64:
+    f_max:
+      - "30 ha"
+    r_min:
+      - "492091 USD"
+      - "18 min"
+  model65:
+    f_max:
+      - "110 ha"
+    r_min:
+      - "1075909 USD"
+      - "10 min"
+  model66:
+    f_max:
+      - "20 ha"
+    r_min:
+      - "367969 USD"
+      - "25 min"
+  model67:
+    f_max:
+      - "120 ha"
+    r_min:
+      - "1050768 USD"
+      - "20 min"
+  model68:
+    f_max:
+      - "110 ha"
+    r_min:
+      - "788087 USD"
+      - "45 min"
+  model69:
+    f_max:
+      - "120 ha"
+    r_min:
+      - "860763 USD"
+      - "60 min"
+  model70:
+    f_max:
+      - "70 ha"
+    r_min:
+      - "567897 USD"
+      - "40 min"
+  model71:
+    f_max:
+      - "60 ha"
+    r_min:
+      - "479077 USD"
+      - "60 min"
+  model72:
+    f_max:
+      - "40 ha"
+    r_min:
+      - "631429 USD"
+      - "10 min"
+  model73:
+    f_max:
+      - "100 ha"
+    r_min:
+      - "820972 USD"
+      - "35 min"
+  model74:
+    f_max:
+      - "100 ha"
+    r_min:
+      - "951162 USD"
+      - "18 min"
+  model75:
+    f_max:
+      - "100 ha"
+    r_min:
+      - "718526 USD"
+      - "60 min"
+  model76:
+    f_max:
+      - "120 ha"
+    r_min:
+      - "871304 USD"
+      - "60 min"
+  model77:
+    f_max:
+      - "120 ha"
+    r_min:
+      - "1050788 USD"
+      - "20 min"
+  model78:
+    f_max:
+      - "20 ha"
+    r_min:
+      - "482361 USD"
+      - "10 min"
+  model79:
+    f_max:
+      - "120 ha"
+    r_min:
+      - "971437 USD"
+      - "30 min"
+  model80:
+    f_max:
+      - "80 ha"
+    r_min:
+      - "646301 USD"
+      - "40 min"
+  model81:
+    f_max:
+      - "20 ha"
+    r_min:
+      - "498520 USD"
+      - "10 min"
+  model82:
+    f_max:
+      - "100 ha"
+    r_min:
+      - "934033 USD"
+      - "20 min"
+  model83:
+    f_max:
+      - "60 ha"
+    r_min:
+      - "752973 USD"
+      - "10 min"
+  model84:
+    f_max:
+      - "30 ha"
+    r_min:
+      - "280537 USD"
+      - "45 min"
+  model85:
+    f_max:
+      - "30 ha"
+    r_min:
+      - "265164 USD"
+      - "45 min"
+  model86:
+    f_max:
+      - "90 ha"
+    r_min:
+      - "815439 USD"
+      - "25 min"
+  model87:
+    f_max:
+      - "60 ha"
+    r_min:
+      - "681898 USD"
+      - "20 min"
+  model88:
+    f_max:
+      - "50 ha"
+    r_min:
+      - "614296 USD"
+      - "20 min"
+  model89:
+    f_max:
+      - "90 ha"
+    r_min:
+      - "705535 USD"
+      - "40 min"
+  model90:
+    f_max:
+      - "30 ha"
+    r_min:
+      - "325403 USD"
+      - "40 min"
+  model91:
+    f_max:
+      - "60 ha"
+    r_min:
+      - "758217 USD"
+      - "10 min"
+  model92:
+    f_max:
+      - "120 ha"
+    r_min:
+      - "1050538 USD"
+      - "20 min"
+  model93:
+    f_max:
+      - "110 ha"
+    r_min:
+      - "1009871 USD"
+      - "18 min"
+  model94:
+    f_max:
+      - "60 ha"
+    r_min:
+      - "638353 USD"
+      - "25 min"
+  model95:
+    f_max:
+      - "110 ha"
+    r_min:
+      - "999408 USD"
+      - "18 min"
+  model96:
+    f_max:
+      - "90 ha"
+    r_min:
+      - "948918 USD"
+      - "10 min"
+  model97:
+    f_max:
+      - "60 ha"
+    r_min:
+      - "720681 USD"
+      - "15 min"
+  model98:
+    f_max:
+      - "50 ha"
+    r_min:
+      - "442530 USD"
+      - "40 min"
+  model99:
+    f_max:
+      - "100 ha"
+    r_min:
+      - "893226 USD"
+      - "25 min"
+  model100:
+    f_max:
+      - "20 ha"
+    r_min:
+      - "150000 USD"
+      - "60 min"
+  model101:
+    f_max:
+      - "120 ha"
+    r_min:
+      - "1050000 USD"
+      - "10 min"

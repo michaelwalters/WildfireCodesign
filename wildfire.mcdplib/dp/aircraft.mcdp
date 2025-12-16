@@ -1,0 +1,10 @@
+# wildfire.mcdplib/dp/aircraft.mcdp
+dp {
+  provides area_controlled [ha]
+
+  requires total_cost      [USD]
+  requires logistics_load  [kg]
+  requires response_time   [min]
+
+  implemented-by yaml resource("catalogues/aircraft_catalogue.yaml")
+}
