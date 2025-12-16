@@ -1,18 +1,16 @@
 # WildfireCodesign
 
-## BLUF
-
+## BLUF  
 Wildfire suppression is a compositional systems problem, not a single optimization.
 
-This project demonstrates how **Monotone Co-Design Problems (MCDP)** can be used to model wildfire suppression by representing aerial assets, ground crews, and logistics as independent subsystems with formally defined functions, resources, and partial orders, and then composing them rigorously into a system-level design problem.
+**What this project builds.**  
+A category-theoretic co-design model using Monotone Co-Design Problems (MCDP) that models wildfire suppression by composing aerial assets, ground crews, and logistics support through explicitly defined functions, resources, and partial orders.
 
-Rather than selecting a single “optimal” solution via fixed objective weights, the model produces a **Pareto tradespace**.
-Each point in the tradespace corresponds to a concrete, feasible composition of air, ground, and supply resources that satisfies all monotone constraints.
-The tradespace makes explicit the tradeoffs between cost, logistics burden, and response time that are otherwise hidden by scalarized approaches.
+**What comes out.**  
+A Pareto tradespace where each point represents a feasible, executable system-level design that satisfies all monotone constraints across cost, logistics load, and response time. Rather than selecting a single “optimal” solution via fixed objective weights, the model produces a **Pareto tradespace**.
 
-This work models a **single decision step in time**.
-
-In practice, the same co-design problem would be re-solved at each time step as fire conditions, containment progress, and available resources change, yielding a sequence of Pareto-optimal decisions rather than a single static plan.
+**Time-step clarification.**  
+This model represents a single decision step in time; in practice, the same co-design problem would be re-solved as fire state and available resources change, yielding a sequence of Pareto-optimal decisions rather than a single static plan.
 
 ## Overview
 

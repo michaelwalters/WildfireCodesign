@@ -3,7 +3,6 @@
 # Top-level wildfire suppression co-design model.
 # Functionality: area_controlled [ha] (more is better)
 # Resources: total_cost [USD], logistics_load [kg], response_time [min] (less is better)
-
 mcdp {
   provides area_controlled [ha]
 

@@ -1,4 +1,3 @@
-# wildfire.mcdplib/dp/retardant.mcdp
 dp {
   provides logistics_load [kg]
   requires total_cost [USD]
