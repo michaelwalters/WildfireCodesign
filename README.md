@@ -14,6 +14,14 @@ This model represents a single decision step in time; in practice, the same co-d
 
 ![Project](assets/title.png)
 
+## Model Scope and Decision Step
+
+This project models **a single decision step** in wildfire suppression using Monotone Co-Design Problems (MCDP).
+
+At each step, the current fire state and available resources are treated as **external parameters** that define the feasible design space. The MCDP solver then computes a **Pareto tradespace of feasible system-level allocations** across air, ground, and logistics subsystems.
+
+The model does **not** simulate fire evolution or damage progression directly. In practice, the same one-step co-design problem would be **re-solved at each time step** as fire state and resource availability change. The dynamic state transition itself sits outside the MCDP formulation and is discussed in more detail in the accompanying paper.
+
 ## Overview
 
 Wildfire suppression is a coupled system problem, not a single optimization.
@@ -39,8 +47,6 @@ It is intentionally scoped to a specific portion of a larger wildfire decision-s
 
 The figures below situate this work in context and clarify **what is modeled here versus what is out of scope**.
 
----
-
 ### System View and Boundary
 
 ![System view and boundary](assets/system_view_and_boundary.png)
@@ -56,8 +62,6 @@ This diagram shows where category theory and MCDP sit within a broader wildfire 
   - and compute feasible trade spaces.
 
 Execution and feedback occur outside the formal model and are treated as exogenous to this work.
-
----
 
 ### System Inputs (What the Model Requires)
 
@@ -75,8 +79,6 @@ Conceptually, a full wildfire decision-support system would require:
 In this repository, **only the final item is implemented**:
 a formal co-design model encoded in MCDP with explicitly defined posets and composition rules.
 
----
-
 ### System Outputs (What the Model Provides)
 
 ![System provides](assets/system_provides.png)
@@ -92,8 +94,6 @@ The MCDP model produces:
 Importantly, the model **does not select a single optimal plan**.  
 It exposes the trade space so that a human decision-maker can choose based on mission priorities and risk tolerance.
 
----
-
 ### Role of MCDP and the Human Decision-Maker
 
 ![Role of MCDP and the human](assets/role_of_mcdp_and_human.png)
@@ -106,8 +106,6 @@ MCDP computes an **upper set of minimal resource vectors**:
 The human decision-maker selects a plan from the Pareto frontier based on operational context.
 This separation of concerns is intentional and central to the model design.
 
----
-
 ### Relation to Sequential / RL-Based Decision Models
 
 ![One-step wildfire decision structure](assets/one_step_decision_structure.png)
@@ -119,8 +117,6 @@ The figures above illustrate how wildfire suppression can be framed as a **seque
 
 This repository **does not implement** this full sequential or RL formulation.
 Instead, it focuses on a **single-step allocation problem** that can serve as a building block within such a framework.
-
----
 
 ### N-Step Wildfire Decision Structure (Out of Scope)
 
@@ -135,8 +131,6 @@ The N-step formulation is shown here for conceptual completeness.
 - These elements are **not modeled in this repository**.
 
 The intent is to show that the co-design structure developed here is compatible with extension to multi-step or RL-based formulations, even though that extension is not carried out due to scope and time constraints.
-
----
 
 ### Summary of Scope
 
